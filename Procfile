@@ -1,1 +1,1 @@
-worker: bash CbaBot
+worker: bash CBABOT
